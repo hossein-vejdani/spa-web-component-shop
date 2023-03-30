@@ -1,0 +1,1 @@
+"# spa-web-component-shop" 
